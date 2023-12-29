@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JIONDAL/JIONDAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=ffe400&height=120&text=Hi!%20Welcom%20to%20JION'S GitHub&animation=fadeIn&fontColor=ffae00&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=a3f5cf&height=120&text=Welcome%20To%20JION's%20GitHub!&animation=fadeIn&fontColor=2a2222&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다😊 </h2>  
@@ -35,6 +34,9 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jiondal&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiondal&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+           /> </div> 
     </div>
+    
     
